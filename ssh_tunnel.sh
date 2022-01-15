@@ -19,7 +19,6 @@ sshpass -p $ssh_password ssh -ND $ssh_localportbinding $ssh_username\@$ssh_host 
 
 
 
-inding
 
 
 echo $?
